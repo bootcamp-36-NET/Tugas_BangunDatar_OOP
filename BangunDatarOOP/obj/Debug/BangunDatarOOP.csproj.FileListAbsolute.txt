@@ -1,0 +1,6 @@
+D:\Bootcamp MII\Project\BangunDatarOOP\BangunDatarOOP\bin\Debug\BangunDatarOOP.exe.config
+D:\Bootcamp MII\Project\BangunDatarOOP\BangunDatarOOP\bin\Debug\BangunDatarOOP.exe
+D:\Bootcamp MII\Project\BangunDatarOOP\BangunDatarOOP\bin\Debug\BangunDatarOOP.pdb
+D:\Bootcamp MII\Project\BangunDatarOOP\BangunDatarOOP\obj\Debug\BangunDatarOOP.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Project\BangunDatarOOP\BangunDatarOOP\obj\Debug\BangunDatarOOP.exe
+D:\Bootcamp MII\Project\BangunDatarOOP\BangunDatarOOP\obj\Debug\BangunDatarOOP.pdb
