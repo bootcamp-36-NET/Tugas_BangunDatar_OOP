@@ -1,0 +1,9 @@
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\bin\Debug\netcoreapp1.1\BasicPrograming.deps.json
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\bin\Debug\netcoreapp1.1\BasicPrograming.runtimeconfig.json
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\bin\Debug\netcoreapp1.1\BasicPrograming.runtimeconfig.dev.json
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\bin\Debug\netcoreapp1.1\BasicPrograming.dll
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\bin\Debug\netcoreapp1.1\BasicPrograming.pdb
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\obj\Debug\netcoreapp1.1\BasicPrograming.csprojResolveAssemblyReference.cache
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\obj\Debug\netcoreapp1.1\BasicPrograming.AssemblyInfo.cs
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\obj\Debug\netcoreapp1.1\BasicPrograming.dll
+c:\users\gin\documents\visual studio 2017\Projects\BasicPrograming\BasicPrograming\obj\Debug\netcoreapp1.1\BasicPrograming.pdb
