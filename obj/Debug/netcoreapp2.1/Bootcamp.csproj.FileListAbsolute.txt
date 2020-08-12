@@ -1,0 +1,11 @@
+/home/aldikluivert/Desktop/C#/Bootcamp/bin/Debug/netcoreapp2.1/Bootcamp.deps.json
+/home/aldikluivert/Desktop/C#/Bootcamp/bin/Debug/netcoreapp2.1/Bootcamp.runtimeconfig.json
+/home/aldikluivert/Desktop/C#/Bootcamp/bin/Debug/netcoreapp2.1/Bootcamp.runtimeconfig.dev.json
+/home/aldikluivert/Desktop/C#/Bootcamp/bin/Debug/netcoreapp2.1/Bootcamp.dll
+/home/aldikluivert/Desktop/C#/Bootcamp/bin/Debug/netcoreapp2.1/Bootcamp.pdb
+/home/aldikluivert/Desktop/C#/Bootcamp/obj/Debug/netcoreapp2.1/Bootcamp.csprojAssemblyReference.cache
+/home/aldikluivert/Desktop/C#/Bootcamp/obj/Debug/netcoreapp2.1/Bootcamp.csproj.CoreCompileInputs.cache
+/home/aldikluivert/Desktop/C#/Bootcamp/obj/Debug/netcoreapp2.1/Bootcamp.AssemblyInfoInputs.cache
+/home/aldikluivert/Desktop/C#/Bootcamp/obj/Debug/netcoreapp2.1/Bootcamp.AssemblyInfo.cs
+/home/aldikluivert/Desktop/C#/Bootcamp/obj/Debug/netcoreapp2.1/Bootcamp.dll
+/home/aldikluivert/Desktop/C#/Bootcamp/obj/Debug/netcoreapp2.1/Bootcamp.pdb
