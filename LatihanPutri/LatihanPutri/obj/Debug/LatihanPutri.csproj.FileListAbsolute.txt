@@ -1,0 +1,6 @@
+c:\users\cornelia putri\documents\visual studio 2017\Projects\LatihanPutri\LatihanPutri\obj\Debug\LatihanPutri.csprojResolveAssemblyReference.cache
+c:\users\cornelia putri\documents\visual studio 2017\Projects\LatihanPutri\LatihanPutri\bin\Debug\LatihanPutri.exe.config
+c:\users\cornelia putri\documents\visual studio 2017\Projects\LatihanPutri\LatihanPutri\bin\Debug\LatihanPutri.exe
+c:\users\cornelia putri\documents\visual studio 2017\Projects\LatihanPutri\LatihanPutri\bin\Debug\LatihanPutri.pdb
+c:\users\cornelia putri\documents\visual studio 2017\Projects\LatihanPutri\LatihanPutri\obj\Debug\LatihanPutri.exe
+c:\users\cornelia putri\documents\visual studio 2017\Projects\LatihanPutri\LatihanPutri\obj\Debug\LatihanPutri.pdb
