@@ -1,0 +1,7 @@
+C:\Users\Geraldy\source\repos\Tugas OOP\Tugas OOP\obj\Debug\Tugas OOP.csprojAssemblyReference.cache
+C:\Users\Geraldy\source\repos\Tugas OOP\Tugas OOP\obj\Debug\Tugas OOP.csproj.CoreCompileInputs.cache
+C:\Users\Geraldy\source\repos\Tugas OOP\Tugas OOP\bin\Debug\Tugas OOP.exe.config
+C:\Users\Geraldy\source\repos\Tugas OOP\Tugas OOP\bin\Debug\Tugas OOP.exe
+C:\Users\Geraldy\source\repos\Tugas OOP\Tugas OOP\bin\Debug\Tugas OOP.pdb
+C:\Users\Geraldy\source\repos\Tugas OOP\Tugas OOP\obj\Debug\Tugas OOP.exe
+C:\Users\Geraldy\source\repos\Tugas OOP\Tugas OOP\obj\Debug\Tugas OOP.pdb
