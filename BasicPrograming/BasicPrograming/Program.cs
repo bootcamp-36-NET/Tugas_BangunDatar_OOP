@@ -7,7 +7,7 @@ namespace BasicPrograming
         public bool ex(bool loop)
         {
             Console.WriteLine("===================================");
-            Console.WriteLine("Apakah Anda Ingin Menggunakan Program Lagi ?(y/n) ");
+            Console.Write("Apakah Anda Ingin Menggunakan Program Lagi (y/n) ?  : ");
             string get = Console.ReadLine();
             if (get == "y")
             {
@@ -37,6 +37,7 @@ namespace BasicPrograming
                     Console.WriteLine("2. Persegi");
                     Console.WriteLine("3. Persegi Panjang");
                     Console.WriteLine("4. Keluar");
+                    Console.Write("Masukan Pilihan : ");
                     string get = Console.ReadLine();
                     int x = int.Parse(get);
                     Program pr = new Program();
@@ -47,7 +48,7 @@ namespace BasicPrograming
                             try
                             {
                                 Console.WriteLine("===================================");
-                                Console.WriteLine("Masukan Jari Jari : ");
+                                Console.Write("Masukan Jari Jari : ");
                                 string get1 = Console.ReadLine();
                                 int x1 = int.Parse(get1);
                                 Lingkaran l = new Lingkaran(x1);
@@ -66,7 +67,7 @@ namespace BasicPrograming
                             {
                                 //  Block of code to try
                                 Console.WriteLine("===================================");
-                                Console.WriteLine("Masukan Sisi : ");
+                                Console.Write("Masukan Sisi : ");
                                 string get2 = Console.ReadLine();
                                 int x2 = int.Parse(get2);
                                 Persegi p = new Persegi(x2);
@@ -87,10 +88,10 @@ namespace BasicPrograming
                             {
                                 //  Block of code to try
                                 Console.WriteLine("===================================");
-                                Console.WriteLine("Masukan Panjang : ");
+                                Console.Write("Masukan Panjang : ");
                                 string get3 = Console.ReadLine();
                                 int x3 = int.Parse(get3);
-                                Console.WriteLine("Masukan Lebar : ");
+                                Console.Write("Masukan Lebar : ");
                                 string get4 = Console.ReadLine();
                                 int x4 = int.Parse(get4);
                                 PersegiPanjang pp = new PersegiPanjang(x3, x4);

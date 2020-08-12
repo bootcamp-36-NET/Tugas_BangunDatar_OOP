@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gin\\Documents\\Visual Studio 2017\\Projects\\BasicPrograming\\BasicPrograming\\BasicPrograming.csproj",
+      "projectUniqueName": "E:\\Rio\\Program\\Tugas_BangunDatar_OOP\\BasicPrograming\\BasicPrograming\\BasicPrograming.csproj",
       "projectName": "BasicPrograming",
-      "projectPath": "C:\\Users\\Gin\\Documents\\Visual Studio 2017\\Projects\\BasicPrograming\\BasicPrograming\\BasicPrograming.csproj",
-      "outputPath": "C:\\Users\\Gin\\Documents\\Visual Studio 2017\\Projects\\BasicPrograming\\BasicPrograming\\obj\\",
+      "projectPath": "E:\\Rio\\Program\\Tugas_BangunDatar_OOP\\BasicPrograming\\BasicPrograming\\BasicPrograming.csproj",
+      "outputPath": "E:\\Rio\\Program\\Tugas_BangunDatar_OOP\\BasicPrograming\\BasicPrograming\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
