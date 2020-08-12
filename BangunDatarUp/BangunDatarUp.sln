@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1231
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangunDatar", "BangunDatar\BangunDatar.csproj", "{A3CC13D7-11A8-484A-992D-8F81AE33A07A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangunDatarUp", "BangunDatarUp\BangunDatarUp.csproj", "{9BF2BB3F-C0AB-43EA-A4C1-8A6663C0CC4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A3CC13D7-11A8-484A-992D-8F81AE33A07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A3CC13D7-11A8-484A-992D-8F81AE33A07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A3CC13D7-11A8-484A-992D-8F81AE33A07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A3CC13D7-11A8-484A-992D-8F81AE33A07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF2BB3F-C0AB-43EA-A4C1-8A6663C0CC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF2BB3F-C0AB-43EA-A4C1-8A6663C0CC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF2BB3F-C0AB-43EA-A4C1-8A6663C0CC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF2BB3F-C0AB-43EA-A4C1-8A6663C0CC4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EC169428-9F43-4BFC-91ED-BADAA69928F3}
+		SolutionGuid = {20D63F85-7C7A-4875-A978-483A1C82A627}
 	EndGlobalSection
 EndGlobal

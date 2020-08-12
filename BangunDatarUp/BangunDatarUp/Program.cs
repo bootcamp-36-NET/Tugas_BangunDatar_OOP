@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BangunDatar
+namespace BangunDatarUp
 {
     class Program
     {
@@ -15,7 +15,6 @@ namespace BangunDatar
         static void Main(string[] args)
         {
             Program p = new Program();
-            int choose;
             Console.WriteLine("Silahkan Pilih Bangun Datar");
 
 

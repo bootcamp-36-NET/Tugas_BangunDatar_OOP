@@ -1,37 +1,35 @@
 ﻿using System;
-namespace BangunDatar
+namespace BangunDatarUp
 {
-    public class Persegi : BangunDatar
+    public class PersegiPanjang : Persegi
     {
-        protected double Luas, Kel, s;
-
+        protected double Luas, Kel, p, l;
         public override void set_a(double a)
         {
-            this.s = a;
+            this.p = a;
         }
-
         public override void set_b(double b)
         {
-            this.s = b;
+            this.l = b;
         }
         public override void setKel()
         {
-            Kell = 4 * s;
+            Kel = 2 * (p + l);
         }
 
         public override void setLuas()
         {
-            Luas = s * s;
+            Luas = p * l;
         }
 
         public override double get_a()
         {
-            return s;
+            return p;
         }
 
         public override double get_b()
         {
-            return s;
+            return l;
         }
         public override double getKel()
         {
@@ -47,9 +45,9 @@ namespace BangunDatar
         {
             try
             {
-                Console.WriteLine("Persegi");
-                Console.WriteLine("Luas = " + s + " * " + s + " = " + Luas + " cm2");
-                Console.WriteLine("Keliling = 4 * " + s + " = " + Kel + " cm2");
+                Console.WriteLine("Persegi Panjang");
+                Console.WriteLine("Luas = " + p + " * " + l + " = " + Luas + " cm2");
+                Console.WriteLine("Keliling = 2 * (" + p + " + " + l + ") = " + Kel + " cm2");
             }
             catch (ArithmeticException e)
             {

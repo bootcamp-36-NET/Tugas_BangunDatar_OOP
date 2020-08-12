@@ -1,0 +1,7 @@
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatarUp\BangunDatarUp\obj\Debug\BangunDatarUp.csprojAssemblyReference.cache
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatarUp\BangunDatarUp\obj\Debug\BangunDatarUp.csproj.CoreCompileInputs.cache
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatarUp\BangunDatarUp\bin\Debug\BangunDatarUp.exe.config
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatarUp\BangunDatarUp\bin\Debug\BangunDatarUp.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatarUp\BangunDatarUp\bin\Debug\BangunDatarUp.pdb
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatarUp\BangunDatarUp\obj\Debug\BangunDatarUp.exe
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatarUp\BangunDatarUp\obj\Debug\BangunDatarUp.pdb

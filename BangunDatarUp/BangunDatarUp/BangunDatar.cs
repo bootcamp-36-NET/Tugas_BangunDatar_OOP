@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BangunDatar
+namespace BangunDatarUp
 {
     public abstract class BangunDatar
     {
