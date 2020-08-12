@@ -1,0 +1,11 @@
+F:\program\tugas1-week2\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.csprojAssemblyReference.cache
+F:\program\tugas1-week2\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.csproj.CoreCompileInputs.cache
+F:\program\tugas1-week2\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.AssemblyInfoInputs.cache
+F:\program\tugas1-week2\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.AssemblyInfo.cs
+F:\program\tugas1-week2\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.deps.json
+F:\program\tugas1-week2\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.runtimeconfig.json
+F:\program\tugas1-week2\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.runtimeconfig.dev.json
+F:\program\tugas1-week2\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.dll
+F:\program\tugas1-week2\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.pdb
+F:\program\tugas1-week2\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.dll
+F:\program\tugas1-week2\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.pdb
