@@ -1,0 +1,2 @@
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csprojAssemblyReference.cache
+C:\Users\Jepri\Documents\Visual Studio 2017\Projects\BangunDatar\BangunDatar\obj\Debug\BangunDatar.csproj.CoreCompileInputs.cache
