@@ -1,0 +1,12 @@
+/Users/iboy/Documents/Apps/ASP/BangunDatar/bin/Debug/netcoreapp3.1/BangunDatar.deps.json
+/Users/iboy/Documents/Apps/ASP/BangunDatar/bin/Debug/netcoreapp3.1/BangunDatar.runtimeconfig.json
+/Users/iboy/Documents/Apps/ASP/BangunDatar/bin/Debug/netcoreapp3.1/BangunDatar.runtimeconfig.dev.json
+/Users/iboy/Documents/Apps/ASP/BangunDatar/bin/Debug/netcoreapp3.1/BangunDatar.dll
+/Users/iboy/Documents/Apps/ASP/BangunDatar/bin/Debug/netcoreapp3.1/BangunDatar.pdb
+/Users/iboy/Documents/Apps/ASP/BangunDatar/obj/Debug/netcoreapp3.1/BangunDatar.csprojAssemblyReference.cache
+/Users/iboy/Documents/Apps/ASP/BangunDatar/obj/Debug/netcoreapp3.1/BangunDatar.AssemblyInfoInputs.cache
+/Users/iboy/Documents/Apps/ASP/BangunDatar/obj/Debug/netcoreapp3.1/BangunDatar.AssemblyInfo.cs
+/Users/iboy/Documents/Apps/ASP/BangunDatar/obj/Debug/netcoreapp3.1/BangunDatar.csproj.CoreCompileInputs.cache
+/Users/iboy/Documents/Apps/ASP/BangunDatar/obj/Debug/netcoreapp3.1/BangunDatar.dll
+/Users/iboy/Documents/Apps/ASP/BangunDatar/obj/Debug/netcoreapp3.1/BangunDatar.pdb
+/Users/iboy/Documents/Apps/ASP/BangunDatar/obj/Debug/netcoreapp3.1/BangunDatar.genruntimeconfig.cache
