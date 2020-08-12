@@ -1,0 +1,4 @@
+C:\Users\User\source\repos\BangunData\BangunData\obj\Debug\netcoreapp3.1\BangunData.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BangunData\BangunData\obj\Debug\netcoreapp3.1\BangunData.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BangunData\BangunData\obj\Debug\netcoreapp3.1\BangunData.AssemblyInfo.cs
+C:\Users\User\source\repos\BangunData\BangunData\obj\Debug\netcoreapp3.1\BangunData.csproj.CoreCompileInputs.cache
