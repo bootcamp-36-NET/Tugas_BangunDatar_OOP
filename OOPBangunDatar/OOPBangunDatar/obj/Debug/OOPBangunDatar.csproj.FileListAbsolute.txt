@@ -1,0 +1,7 @@
+C:\Users\imann\OneDrive\Documents\Visual Studio 2017\Projects\OOPBangunDatar\OOPBangunDatar\obj\Debug\OOPBangunDatar.csprojAssemblyReference.cache
+C:\Users\imann\OneDrive\Documents\Visual Studio 2017\Projects\OOPBangunDatar\OOPBangunDatar\obj\Debug\OOPBangunDatar.csproj.CoreCompileInputs.cache
+C:\Users\imann\OneDrive\Documents\Visual Studio 2017\Projects\OOPBangunDatar\OOPBangunDatar\bin\Debug\OOPBangunDatar.exe.config
+C:\Users\imann\OneDrive\Documents\Visual Studio 2017\Projects\OOPBangunDatar\OOPBangunDatar\bin\Debug\OOPBangunDatar.exe
+C:\Users\imann\OneDrive\Documents\Visual Studio 2017\Projects\OOPBangunDatar\OOPBangunDatar\bin\Debug\OOPBangunDatar.pdb
+C:\Users\imann\OneDrive\Documents\Visual Studio 2017\Projects\OOPBangunDatar\OOPBangunDatar\obj\Debug\OOPBangunDatar.exe
+C:\Users\imann\OneDrive\Documents\Visual Studio 2017\Projects\OOPBangunDatar\OOPBangunDatar\obj\Debug\OOPBangunDatar.pdb
